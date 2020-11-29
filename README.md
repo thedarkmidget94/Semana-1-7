@@ -5,7 +5,7 @@ Código para el ejercicio del Proyecto Semana 1
 Este projecto fue elaborado por: 
 - Jorge Arévalo
 - Carlos Niño
-- Daniel Navarro
+- Eduardo Guerrero
 - Nicolás Asaf
 
 ### RESOLUCIÓN DE ISSUES
