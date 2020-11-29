@@ -10,7 +10,7 @@ Este projecto fue elaborado por:
 
 ### RESOLUCIÓN DE ISSUES
 
-1. ISS1: EDICIÓN DEL ENCABEZADO
+5. ISS5: EDICIÓN DEL FOOTER
 - Relizado por Jorge Arévalo
 - Estado: Terminado
 
