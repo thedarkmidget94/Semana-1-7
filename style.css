@@ -1,0 +1,57 @@
+.titulo{
+    background-color: #312f2f;
+    height: 60px;
+    width: 1200px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #19910c;
+    text-align: center;
+    font-size: 45px;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.section-1{
+    height: 570px;
+    width: 1200px;
+    background-color: rgb(132, 132, 141);
+    margin-top: 0px;
+}
+
+.column{
+    height: 500px;
+    margin-top: 5px;
+    background-color: rgb(20, 25, 90);
+    width: 33.08%; 
+    display: inline-block
+}
+
+.logo{
+    width:296.95px;
+    height:125px;
+    display: block;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.h1{
+    text-align: center;
+    color: #19910c;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.description{
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 6px;
+    height: 200px;
+}
+
+.link{
+    text-align: justify;
+    color: #19910c;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 6px;
+}
