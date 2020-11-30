@@ -3,16 +3,6 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.container{
-    width: 1200px;
-    background-color: #888888;
-    height: 2000px;
-    -ms-flex-item-align: center;
-        align-self: center;
-    margin: 0px auto;
-    padding: 0 auto;
-}
-
 .header{
     background-color: rgba(0, 225, 255, 0.5);
     height: auto;
@@ -203,4 +193,24 @@ body{
     color: #19910c;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding: 6px;
+}
+
+.miembros__individuo{
+     
+    background-color: rgb(216, 222, 224);
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+.miembros__individuo--descripcion{
+    font-size: 20px;
+    text-align: center;
+}
+
+.miembros_individuo--nombre{
+    font-size: 25px;
+    text-align: center;
+    
 }
