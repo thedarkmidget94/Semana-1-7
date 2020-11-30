@@ -5,13 +5,13 @@ Código para el ejercicio del Proyecto Semana 1
 Este projecto fue elaborado por: 
 - Jorge Arévalo
 - Carlos Niño
-- Daniel Navarro
+- Eduardo Guerrero
 - Nicolás Asaf
 
 ### RESOLUCIÓN DE ISSUES
 
-1. ISS1: EDICIÓN DEL ENCABEZADO
-- Relizado por Jorge Arévalo
+1. ISS3: EDICIÓN DE LA SECCIÓN NEWS
+- Relizado por Carlos Niño
 - Estado: Terminado
 
 2. ISS2: EDICIÓN DE LA SECCIÓN DE SERVICIOS
