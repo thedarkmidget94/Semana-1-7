@@ -22,6 +22,10 @@ Este projecto fue elaborado por:
 - Relizado por Carlos Niño
 - Estado: Terminado
 
+4. ISS4: EDICIÓN DEL FOOTER
+- Relizado por Eduardo Guerrero
+- Estado: Terminado
+
 5. ISS5: EDICIÓN DEL FOOTER
 - Relizado por Jorge Arévalo
 - Estado: Terminado
