@@ -1,4 +1,5 @@
 body{
+    width: 1200px;
     margin-top: 0px;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -75,21 +76,24 @@ body{
 }
 
 .footer{
-    height: 200px;
+    height: 237px;
     background-color: rgba(0, 225, 255, 0.5);
+    margin-top: 0px;
 }
 
 .section-text{
     margin: 0;
     color: black;
-    background: white;
+    background:  lightskyblue;
     font-weight: bold;
     text-align: center;
+    font-size: 35px;
+    margin-top: 0px;
 }
 
 .col-2{
     width: 587px;
-    height: 172px;
+    height: 185px;
     background-color: rgb(75, 75, 75);
     display: inline-block;
     text-align: center;
@@ -107,6 +111,7 @@ body{
     display: flex;
     justify-content: space-evenly;
     text-align: left;
+    margin-bottom: 0px;
 
 }
 
@@ -162,7 +167,7 @@ body{
     margin-top: 5px;
     background-color: rgb(20, 25, 90);
     width: 33.08%; 
-    display: inline-block
+    display: inline-block;
 }
 
 .logo{
@@ -195,18 +200,33 @@ body{
     padding: 6px;
 }
 
+.titulo-equipo{
+    background-color: rgb(34, 170, 29);
+    height: 50px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.p-equipo{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-weight: bold;
+}
+
 .miembros__individuo{
      
     background-color: rgb(216, 222, 224);
     margin-top: 10px;
-    margin-left: 10px;
-    margin-right: 10px;
-    
+    width: 1200px;
+    margin-bottom: 0px;
 }
 
 .miembros__individuo--descripcion{
     font-size: 20px;
     text-align: center;
+    margin-bottom: 10px;
 }
 
 .miembros_individuo--nombre{
