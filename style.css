@@ -83,3 +83,124 @@ body{
     text-decoration: underline;
     font-weight: bold;
 }
+
+.footer{
+    height: 200px;
+    background-color: rgba(0, 225, 255, 0.5);
+}
+
+.section-text{
+    margin: 0;
+    color: black;
+    background: white;
+    font-weight: bold;
+    text-align: center;
+}
+
+.col-2{
+    width: 587px;
+    height: 172px;
+    background-color: rgb(75, 75, 75);
+    display: inline-block;
+    text-align: center;
+    margin: 5px;
+}
+
+.footer-content{
+    color: white;
+}
+
+.noticias{
+    height: 500px;
+    
+    background-color: lightskyblue;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: left;
+
+}
+
+.noticia{
+    display: flex;
+    height: 250px;
+    text-align:justify;
+    margin-bottom: 20px;
+
+}
+
+.titulo-noticias{
+    height: 50px;
+    margin-bottom: 20px;
+    font-size: 30px;
+    margin: 0;
+    color: #111010;
+    background: white;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.texto-noticia{
+    width: 380px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.titulo{
+    background-color: #312f2f;
+    height: 60px;
+    width: 1200px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #19910c;
+    text-align: center;
+    font-size: 45px;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.section-1{
+    height: 570px;
+    width: 1200px;
+    background-color: rgb(132, 132, 141);
+    margin-top: 0px;
+}
+
+.column{
+    height: 500px;
+    margin-top: 5px;
+    background-color: rgb(20, 25, 90);
+    width: 33.08%; 
+    display: inline-block
+}
+
+.logo{
+    width:296.95px;
+    height:125px;
+    display: block;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.h1{
+    text-align: center;
+    color: #19910c;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.description{
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 6px;
+    height: 200px;
+}
+
+.link{
+    text-align: justify;
+    color: #19910c;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 6px;
+}
