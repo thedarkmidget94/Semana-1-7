@@ -10,6 +10,10 @@ Este projecto fue elaborado por:
 
 ### RESOLUCIÓN DE ISSUES
 
+
+1. ISS3: EDICIÓN DE LA SECCIÓN NEWS
+- Relizado por Carlos Niño
+
 2. ISS2: EDICIÓN DE LA SECCIÓN DE SERVICIOS
 - Relizado por Nicolás Asif
 - Estado: Terminado
