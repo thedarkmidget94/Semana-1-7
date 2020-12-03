@@ -10,8 +10,8 @@ Este projecto fue elaborado por:
 
 ### RESOLUCIÓN DE ISSUES
 
-1. ISS3: EDICIÓN DE LA SECCIÓN NEWS
-- Relizado por Carlos Niño
+5. ISS5: EDICIÓN DEL HEADER
+- Relizado por Jorge Arévalo
 - Estado: Terminado
 
 2. ISS2: EDICIÓN DE LA SECCIÓN DE SERVICIOS
@@ -22,7 +22,7 @@ Este projecto fue elaborado por:
 - Relizado por Carlos Niño
 - Estado: Terminado
 
-4. ISS4: EDICIÓN DEL FOOTER
+4. ISS4: EDICIÓN DE LA SECCIÓN PARTICIPANTES
 - Relizado por Eduardo Guerrero
 - Estado: Terminado
 
