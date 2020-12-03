@@ -156,14 +156,14 @@ body{
 }
 
 .section-1{
-    height: 570px;
+    height: 595px;
     width: 1200px;
     background-color: rgb(132, 132, 141);
     margin-top: 0px;
 }
 
 .column{
-    height: 500px;
+    height: 530px;
     margin-top: 5px;
     background-color: rgb(20, 25, 90);
     width: 33.08%; 
@@ -218,9 +218,12 @@ body{
 .miembros__individuo{
      
     background-color: rgb(216, 222, 224);
-    margin-top: 10px;
+    margin-top: 5px;
     width: 1200px;
-    margin-bottom: 0px;
+    height: 530;
+    width: 24.7%; 
+    display: inline-block;
+    align-items: center;
 }
 
 .miembros__individuo--descripcion{
